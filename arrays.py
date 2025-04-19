@@ -1,0 +1,1 @@
+#este espacio lo voy a dejar para mas adelante. los arrays son como listas, pero se usan con NumPy. cuando llegue aeso, amplio. en principio, es similar a listas
